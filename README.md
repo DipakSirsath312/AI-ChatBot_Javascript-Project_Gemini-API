@@ -25,6 +25,7 @@ This branch is mainly used to:
 ---
 ## 📁 Files Included
 index.html → Chat user interface
+
 style.css → Chatbot design & layout
 
 ---
@@ -46,3 +47,22 @@ OR run:
    python -m http.server 8080
 
 ---
+# 📌 Status
+
+✅ UC-1 Successfully Completed
+🚧 More features will be implemented in other branches
+
+---
+#👨‍💻 Developer
+
+Created by Dipak Sirsath
+
+---
+
+### ✅ Git Commands to Add This README
+
+```bash
+git checkout "UC-1-Completed-for-AI-ChatBot-Created"
+git add README.md
+git commit -m "Created README for UC-1 branch"
+git push origin "UC-1-Completed-for-AI-ChatBot-Created"
