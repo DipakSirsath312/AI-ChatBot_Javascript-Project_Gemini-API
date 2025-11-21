@@ -24,3 +24,25 @@ This branch is mainly used to:
 
 ---
 ## 📁 Files Included
+index.html → Chat user interface
+style.css → Chatbot design & layout
+
+---
+
+## 🚀 How to Run This Branch Code
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+
+---
+2. Switch to this branch:
+    ```bash
+    git checkout UC-1-Completed-for-AI-ChatBot-Created
+
+3. Open index.html in your browser
+OR run:
+   ```bash
+   python -m http.server 8080
+
+---
