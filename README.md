@@ -28,3 +28,14 @@ App.js
 1. **Clone the repository (if not already):**  
    ```bash
    git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+
+2. Checkout this branch:
+   ```bash
+   git checkout UC-2-Style-Input-Container
+
+3. Open index.html in a browser, or run a local server:
+   ```bash
+   python3 -m http.server 8080
+Then go to http://localhost:8080.
+   
+---
