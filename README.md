@@ -15,13 +15,6 @@ It represents the first successful milestone of the project.
 ---
 ## ✅ What is Completed in UC-1
 - Basic chatbot UI created using HTML and CSS
-
----
-## 🎯 Purpose of This Branch
-This branch is mainly used to:
-- Maintain clean code for UC-1
-- Serve as a base for future development
-
 ---
 ## 📁 Files Included
 index.html → Chat user interface
@@ -53,11 +46,6 @@ OR run:
 🚧 More features will be implemented in other branches
 
 ---
-#👨‍💻 Developer
-
-Created by Dipak Sirsath
-
----
 
 ### ✅ Git Commands to Add This README
 
@@ -66,3 +54,5 @@ git checkout "UC-1-Completed-for-AI-ChatBot-Created"
 git add README.md
 git commit -m "Created README for UC-1 branch"
 git push origin "UC-1-Completed-for-AI-ChatBot-Created"
+
+---
