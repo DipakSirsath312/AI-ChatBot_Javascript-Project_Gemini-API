@@ -48,3 +48,10 @@ Then go to http://localhost:8080.
 🔧 Further styling improvements or animations may be added in future branches
 
 ---
+
+# 👤 Developer / Maintainer
+Author: Dipak Sirsath
+
+Contact or Issues: Use GitHub Issues on this repo if you find bug or want enhancements.
+
+---
