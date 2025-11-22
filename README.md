@@ -12,3 +12,10 @@ This branch focuses on improving the **input container styling** for the AI Chat
 - Improved user experience when typing and sending messages.
 
 ---
+## 📁 Files Affected
+📁profile_Picture
+index.html → Updated structure of chat and input container
+style.css → CSS styles for the input container, chat UI look & feel
+App.js 
+
+---
