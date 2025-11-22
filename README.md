@@ -13,6 +13,7 @@ This branch focuses on improving the **input container styling** for the AI Chat
 
 ---
 ## 📁 Files Affected
+
 📁profile_Picture
 
 index.html → Updated structure of chat and input container
@@ -53,5 +54,3 @@ Then go to http://localhost:8080.
 Author: Dipak Sirsath
 
 Contact or Issues: Use GitHub Issues on this repo if you find bug or want enhancements.
-
----
