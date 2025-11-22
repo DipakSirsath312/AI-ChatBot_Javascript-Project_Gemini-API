@@ -22,3 +22,9 @@ style.css → CSS styles for the input container, chat UI look & feel
 App.js 
 
 ---
+
+## 🚀 How to Run This Branch
+
+1. **Clone the repository (if not already):**  
+   ```bash
+   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
