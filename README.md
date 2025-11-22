@@ -6,3 +6,9 @@ This Repository Present AI Chatbot With Gemini-API Project In JavaScript
 This branch focuses on improving the **input container styling** for the AI ChatBot UI.
 
 ---
+## 🌱 What’s New / Changed in UC-2
+- Better CSS styling for input text box, send button, and chat area.
+- More responsive UI: input container works well on different screen sizes.  
+- Improved user experience when typing and sending messages.
+
+---
