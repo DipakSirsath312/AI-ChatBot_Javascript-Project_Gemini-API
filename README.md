@@ -30,13 +30,14 @@ Is branch ka aim hai:
    git checkout UC-3-API_KEY-GenerateResponse
 
 3. API key configure karein (for example config.js ya .env):
+   
    // config.js
    
      const API_KEY = "YOUR_API_KEY_HERE";
   
      export default API_KEY;
 
-4. Browser me open karein:
+5. Browser me open karein:
    
     http://localhost:8080/index.html
    
