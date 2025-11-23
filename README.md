@@ -33,6 +33,7 @@ Is branch ka aim hai:
    // config.js
    
   const API_KEY = "YOUR_API_KEY_HERE";
+  
   export default API_KEY;
 
 4. Browser me open karein:
