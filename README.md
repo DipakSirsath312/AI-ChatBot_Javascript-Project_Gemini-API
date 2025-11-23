@@ -31,9 +31,53 @@ Is branch ka aim hai:
 
 4. API key configure karein (for example config.js ya .env):
    // config.js
+   
   const API_KEY = "YOUR_API_KEY_HERE";
+ 
   export default API_KEY;
 
-5. Browser me open karein:
+6. Browser me open karein:
     http://localhost:8080/index.html
+---
+
+## 🗂 File Structure
+
+/project-root
+|
+│  index.html
+|
+│  style.css
+|
+│  App.js (or main JS file)
+|
+│  config.js (API key & config)
+|
+└  … (agar modules / utils hain)
+
+---
+
+## 🛠 Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+API integration via fetch/axios
+
+Static local server for development
+
+---
+
+# 🚀 Next Steps & Enhancements
+
+API failures ke liye improved error handling
+
+Chatbot ke responses ke liye typing indicator add karna
+
+Logging/analytics integrate karna user interactions ke liye
+
+UI polish aur theme options add karna
+
 ---
