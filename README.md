@@ -10,3 +10,12 @@ Is branch ka aim hai:
 - User ke input ko process karke API request bhejna  
 - API ka response handle karna aur chatbot UI mein display karna  
 ---
+
+## ✅ What’s Completed in UC-3  
+- Project structure setup (HTML, CSS, JS)  
+- Chatbot UI ready — user input field, send button, chat history area  
+- API key configuration mechanism banaaya gaya (config file / environment variable)  
+- `generateResponse()` jaisa function implement kiya gaya hai jo API ko call karega  
+- API response se data parse karke UI mein show karega  
+- Basic error handling & response display added  
+---
