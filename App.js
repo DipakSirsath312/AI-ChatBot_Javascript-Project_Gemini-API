@@ -1,1 +1,27 @@
-console.log("Wel-Come to Ai Chatbot JavaScript Projects With Gemini-API");
+const API_KEY = 'AIzaSyDb63Cvh9AC2I46rO2F8z1aJkYBrpKUeiE';
+const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+
+const chatMessages = document.getElementById("chat-message");
+const userInput = document.getElementById("user-input");
+const sendButton = document.getElementById("send - button");
+
+async function generateResponse(prompt) {
+    const response = await fetch(`${API_URL} ?key= ${API_KEY}`,{
+
+        method: 'POST',
+        headers:{
+            'Content-Type' : 'application/json' 
+        },
+        body:JSON.stringify({
+            contents:[
+                {
+                    parts:[
+                        {
+                            text:prompt
+                        }
+                    ]
+                }
+            ]
+        })
+    })
+}
