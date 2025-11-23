@@ -29,14 +29,14 @@ Is branch ka aim hai:
    ```bash
    git checkout UC-3-API_KEY-GenerateResponse
 
-4. API key configure karein (for example config.js ya .env):
+3. API key configure karein (for example config.js ya .env):
    // config.js
    
   const API_KEY = "YOUR_API_KEY_HERE";
  
   export default API_KEY;
 
-6. Browser me open karein:
+4. Browser me open karein:
     http://localhost:8080/index.html
 ---
 
@@ -81,3 +81,7 @@ Logging/analytics integrate karna user interactions ke liye
 UI polish aur theme options add karna
 
 ---
+
+# 🧑‍💻 Developer
+
+Project by Dipak Sirsath
