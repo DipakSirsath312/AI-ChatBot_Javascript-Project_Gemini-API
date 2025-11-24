@@ -1,96 +1,22 @@
-# AI-ChatBot_Javascript-Project_Gemini-API
-This Repository Present AI Chatbot With Gemini-API Project In JavaScript
+# AI ChatBot JavaScript Project  
+## Branch: `UC-4-ErrorThrow_addMessage`
 
----
-# Branch: UC-1 Completed for AI ChatBot Created
-This branch contains the **first use case (UC-1)** completed for the AI ChatBot project.
+## 🚀 Use Case 4: Error Handling & Message Rendering
 
----
-
-## 🌱 About This Branch
-This branch is created to store the **initial working version** of the chatbot.  
-It represents the first successful milestone of the project.
-
----
-## ✅ What is Completed in UC-1
-- Basic chatbot UI created using HTML and CSS
----
-## 📁 Files Included
-index.html → Chat user interface
-
-style.css → Chatbot design & layout
+Is branch me chatbot application ko zyada stable aur user-friendly banaya gaya hai by adding **proper error handling** aur **dynamic message rendering system**.
 
 ---
 
-## 🚀 How to Run This Branch Code
+## ✅ What’s Implemented in UC-4
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+### 1. Error Handling (Error Throw)
+- API response ke fail hone par proper error throw kiya gaya hai
+- Non-200 response ke liye custom error message
+- Network issues aur invalid API response handle kiya gaya
 
----
-2. Switch to this branch:
-    ```bash
-    git checkout UC-1-Completed-for-AI-ChatBot-Created
+Example logic used:
+``js
+if (!response.ok) {
+  throw new Error("Failed to give response");
+}
 
-3. Open index.html in your browser
-OR run:
-   ```bash
-   python -m http.server 8080
-
----
-# 📌 Status
-
-✅ UC-1 Successfully Completed
-🚧 More features will be implemented in other branches
-
----
-
-# Branch: UC-2 – Style Input Container
-This branch focuses on improving the **input container styling** for the AI ChatBot UI.
-
----
-## 🌱 What’s New / Changed in UC-2
-- Better CSS styling for input text box, send button, and chat area.
-- More responsive UI: input container works well on different screen sizes.  
-- Improved user experience when typing and sending messages.
-
----
-## 📁 Files Affected
-
-📁profile_Picture
-
-index.html → Updated structure of chat and input container
-
-style.css → CSS styles for the input container, chat UI look & feel
-
-App.js 
-
----
-## 🚀 How to Run This Branch
-
-1. **Clone the repository (if not already):**  
-   ```bash
-   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
-
-2. Checkout this branch:
-   ```bash
-   git checkout UC-2-Style-Input-Container
-
-3. Open index.html in a browser, or run a local server:
-   ```bash
-   python3 -m http.server 8080
-Then go to http://localhost:8080.
-   
----
-# ✅ Status
-✅ Input container styling is complete
-
-✅ UI looks better and is more user-friendly
-
----
-# 👤 Developer / Maintainer
-
-Author: Dipak Sirsath
-
-----
