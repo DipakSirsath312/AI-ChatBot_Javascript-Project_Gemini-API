@@ -23,7 +23,7 @@ if (!response.ok) {
   
 }
 
-2. addMessage() Function
+### 2. addMessage() Function
    
   Dynamic function banaya gaya jo user aur bot ke messages ko UI me add karta hai
   
@@ -39,7 +39,7 @@ if (!response.ok) {
   
   Auto scroll to latest message
 
-3. Markdown Cleaner Function
+### 3. Markdown Cleaner Function
    
 cleanMarkdown() function implemented
 
@@ -291,3 +291,4 @@ OR run:
 
 ---
 >>>>>>> main
+
