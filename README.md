@@ -1,4 +1,3 @@
-<<<<<<< uc-4-ErrorThrow_addMessage
 # AI ChatBot JavaScript Project  
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
@@ -7,7 +6,6 @@
 Is branch me chatbot application ko zyada stable aur user-friendly banaya gaya hai by adding **proper error handling** aur **dynamic message rendering system**.
 
 ---
-
 ## ✅ What’s Implemented in UC-4
 
 ### 1. Error Handling (Error Throw)
@@ -103,7 +101,9 @@ Chat history save feature
 
 # 👨‍💻 Developer
 Developed by 
+
 Dipak Sirsath
+
 =======
 # AI-ChatBot_Javascript-Project_Gemini-API
 This Repository Present AI Chatbot With Gemini-API Project In JavaScript
@@ -291,4 +291,5 @@ OR run:
 
 ---
 >>>>>>> main
+
 
