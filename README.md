@@ -37,6 +37,14 @@ AI API: Gemini API
 
 Version Control: Git & GitHub
 
+## 📁 Project Structure
+AI-ChatBot_Javascript-Project_Gemini-API/
+│
+├── index.html # Chatbot UI structure
+├── style.css # Chatbot styling
+├── App.js # Core logic for handling user input & AI responses
+├── README.md # Project documentation
+
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
 
@@ -328,6 +336,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
