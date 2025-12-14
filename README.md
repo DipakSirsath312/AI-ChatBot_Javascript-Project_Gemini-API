@@ -30,6 +30,12 @@ API request handling for AI responses
 
 Error handling for empty or invalid inputs
 
+## 🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+
+AI API: Gemini API
+
+Version Control: Git & GitHub
 
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
@@ -322,6 +328,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
