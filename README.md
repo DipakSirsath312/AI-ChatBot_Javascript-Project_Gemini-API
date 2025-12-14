@@ -68,9 +68,15 @@ It focuses only on handling user input and responses.
 
 Additional features like chat history, loaders, and UI enhancements are planned in later branches.
 
-##  
+##  👨‍💻 Author
+
+Dipak Sirsath
+JavaScript Developer | AI Chatbot Enthusiast
+
+GitHub: https://github.com/DipakSirsath312
 
 ---
+
 # Branch: `UC-4-ErrorThrow_addMessage`
 
 ## 🚀 Use Case 4: Error Handling & Message Rendering
@@ -361,6 +367,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
