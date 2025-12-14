@@ -59,7 +59,17 @@ AI-ChatBot_Javascript-Project_Gemini-API/
 
 3. Open index.html in a browser (or use Live Server).
 4. Add your Gemini API key inside App.js if required.
-   
+
+## 🧩 Notes
+
+This branch is part of a use-case based development flow.
+
+It focuses only on handling user input and responses.
+
+Additional features like chat history, loaders, and UI enhancements are planned in later branches.
+
+##  
+
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
 
@@ -351,6 +361,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
