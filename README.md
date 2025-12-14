@@ -51,6 +51,15 @@ AI-ChatBot_Javascript-Project_Gemini-API/
 
 ## ▶️ How to Run the Project
 
+1. Clone the repository:
+   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+
+2. Switch to this branch:
+   git checkout UC-5-message_handleUserInput
+
+3. Open index.html in a browser (or use Live Server).
+4. Add your Gemini API key inside App.js if required.
+   
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
 
@@ -342,6 +351,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
