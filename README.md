@@ -17,6 +17,20 @@ Receive and render AI-generated responses
 
 Maintain a smooth conversational flow between user and AI
 
+## 🧠 Use Case 5: Handle User Input
+Objective: Enable the chatbot to correctly read, process, and respond to user messages.
+
+Key Functionalities:
+
+Event handling for user input submission
+
+Message formatting and rendering in the UI
+
+API request handling for AI responses
+
+Error handling for empty or invalid inputs
+
+
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
 
@@ -308,6 +322,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
