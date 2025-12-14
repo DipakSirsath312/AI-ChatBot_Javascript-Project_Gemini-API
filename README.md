@@ -4,6 +4,18 @@
 # Branch: UC-5-message_handleUserInput
 This branch focuses on handling user input and message flow in a web-based AI chatbot built using JavaScript and integrated with the Gemini API. It represents the fifth use case in a step-by-step development approach, where core chat interaction logic is implemented.
 
+## 🚀 Features Implemented in This Branch
+Capture user input from the chat UI
+
+Validate and process user messages
+
+Display user messages dynamically in the chat window
+
+Send user input to the Gemini API
+
+Receive and render AI-generated responses
+
+Maintain a smooth conversational flow between user and AI
 
 ---
 # Branch: `UC-4-ErrorThrow_addMessage`
@@ -296,6 +308,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
