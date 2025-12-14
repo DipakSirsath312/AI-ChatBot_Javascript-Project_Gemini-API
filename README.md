@@ -71,6 +71,7 @@ Additional features like chat history, loaders, and UI enhancements are planned 
 ##  👨‍💻 Author
 
 Dipak Sirsath
+
 JavaScript Developer | AI Chatbot Enthusiast
 
 GitHub: https://github.com/DipakSirsath312
@@ -367,6 +368,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
