@@ -56,15 +56,39 @@ API Communication: Async/Await, Fetch
 
 AI-ChatBot_Javascript-Project_Gemini-API/
 │
+
 ├── src/
+
 │   ├── chatbotResponse.js   # UC-6: Handles chatbot responses
+
 │   ├── messageHandler.js
+
 │
+
 ├── config/
+
 │   └── geminiConfig.js      # Gemini API setup
+
 │
+
 ├── README.md
 
+# ⚙️ How to Run (UC-6 Branch)
+
+1. Clone the repository:
+   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+
+2. Switch to the branch:
+   git checkout UC-6-chatbot-Response
+
+3. Install dependencies:
+   npm install
+
+4. Configure API key:
+   GEMINI_API_KEY=your_api_key_here
+
+5. Start the application:
+   npm start
 
 
 ---
@@ -436,6 +460,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
