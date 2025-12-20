@@ -30,6 +30,18 @@ Clean and modular JavaScript code
 
 Scalable response-handling logic
 
+# 🧩 Use Case 6 (UC-6): Chatbot Response
+
+1.Workflow:
+
+2.User submits a message
+
+3.Message is forwarded to Gemini API
+
+4.Gemini processes the request
+
+5.AI-generated response is returned to the chatbot
+
 ---
 
 # Branch: UC-5-message_handleUserInput
@@ -399,6 +411,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
