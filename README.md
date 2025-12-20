@@ -42,6 +42,16 @@ Scalable response-handling logic
 
 5.AI-generated response is returned to the chatbot
 
+# 🛠️ Tech Stack
+
+Programming Language: JavaScript
+
+AI Service: Google Gemini API
+
+Runtime Environment: Node.js
+
+API Communication: Async/Await, Fetch
+
 ---
 
 # Branch: UC-5-message_handleUserInput
@@ -411,6 +421,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
