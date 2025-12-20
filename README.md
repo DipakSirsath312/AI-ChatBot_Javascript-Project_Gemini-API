@@ -55,6 +55,7 @@ API Communication: Async/Await, Fetch
 # 📂 Relevant Project Structure
 
 AI-ChatBot_Javascript-Project_Gemini-API/
+
 │
 
 ├── src/
@@ -99,6 +100,12 @@ Frontend UI integration
 Improved error and fallback handling
 
 Multi-language chatbot support
+
+# 👨‍💻 Author
+
+Dipak Shirsath 
+
+GitHub: https://github.com/DipakSirsath312  
 
 ---
 
@@ -469,6 +476,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
