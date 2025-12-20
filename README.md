@@ -5,6 +5,20 @@
 ## Branch: UC-6-chatbot-Response
 An AI-powered chatbot developed using JavaScript and Google Gemini API. This branch, UC-6-chatbot-Response, is dedicated to handling AI-generated responses based on user input, ensuring accurate, contextual, and real-time replies.
 
+# 📌 Branch Overview: UC-6-chatbot-Response
+
+Purpose:
+Implement and manage chatbot response logic using the Gemini AI model.
+
+Key Responsibility of This Branch:
+
+Accept processed user input
+
+Send requests to Gemini API
+
+Receive and return intelligent chatbot responses
+
+---
 
 # Branch: UC-5-message_handleUserInput
 This branch focuses on handling user input and message flow in a web-based AI chatbot built using JavaScript and integrated with the Gemini API. It represents the fifth use case in a step-by-step development approach, where core chat interaction logic is implemented.
@@ -373,6 +387,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
