@@ -90,6 +90,15 @@ AI-ChatBot_Javascript-Project_Gemini-API/
 5. Start the application:
    npm start
 
+# 🚀 Planned Enhancements
+
+Context-aware conversation history
+
+Frontend UI integration
+
+Improved error and fallback handling
+
+Multi-language chatbot support
 
 ---
 
@@ -460,6 +469,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
