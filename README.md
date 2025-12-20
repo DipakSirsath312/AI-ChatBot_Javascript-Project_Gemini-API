@@ -18,6 +18,18 @@ Send requests to Gemini API
 
 Receive and return intelligent chatbot responses
 
+# ✨ Features
+
+AI-driven chatbot responses
+
+Integration with Google Gemini API
+
+Asynchronous request handling
+
+Clean and modular JavaScript code
+
+Scalable response-handling logic
+
 ---
 
 # Branch: UC-5-message_handleUserInput
@@ -387,6 +399,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
