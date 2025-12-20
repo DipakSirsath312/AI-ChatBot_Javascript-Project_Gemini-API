@@ -52,6 +52,21 @@ Runtime Environment: Node.js
 
 API Communication: Async/Await, Fetch
 
+# 📂 Relevant Project Structure
+
+AI-ChatBot_Javascript-Project_Gemini-API/
+│
+├── src/
+│   ├── chatbotResponse.js   # UC-6: Handles chatbot responses
+│   ├── messageHandler.js
+│
+├── config/
+│   └── geminiConfig.js      # Gemini API setup
+│
+├── README.md
+
+
+
 ---
 
 # Branch: UC-5-message_handleUserInput
@@ -421,6 +436,7 @@ OR run:
 
 ---
 >>>>>>> main
+
 
 
 
