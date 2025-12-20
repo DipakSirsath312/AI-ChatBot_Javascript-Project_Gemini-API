@@ -1,5 +1,83 @@
 # AI ChatBot JavaScript Project  
 ---
+
+# Branch: UC-5-message_handleUserInput
+This branch focuses on handling user input and message flow in a web-based AI chatbot built using JavaScript and integrated with the Gemini API. It represents the fifth use case in a step-by-step development approach, where core chat interaction logic is implemented.
+
+## 🚀 Features Implemented in This Branch
+Capture user input from the chat UI
+
+Validate and process user messages
+
+Display user messages dynamically in the chat window
+
+Send user input to the Gemini API
+
+Receive and render AI-generated responses
+
+Maintain a smooth conversational flow between user and AI
+
+## 🧠 Use Case 5: Handle User Input
+Objective: Enable the chatbot to correctly read, process, and respond to user messages.
+
+Key Functionalities:
+
+Event handling for user input submission
+
+Message formatting and rendering in the UI
+
+API request handling for AI responses
+
+Error handling for empty or invalid inputs
+
+## 🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+
+AI API: Gemini API
+
+Version Control: Git & GitHub
+
+## 📁 Project Structure
+AI-ChatBot_Javascript-Project_Gemini-API/
+│
+
+├── index.html # Chatbot UI structure
+
+├── style.css # Chatbot styling
+
+├── App.js # Core logic for handling user input & AI responses
+
+├── README.md # Project documentation
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   git clone https://github.com/DipakSirsath312/AI-ChatBot_Javascript-Project_Gemini-API.git
+
+2. Switch to this branch:
+   git checkout UC-5-message_handleUserInput
+
+3. Open index.html in a browser (or use Live Server).
+4. Add your Gemini API key inside App.js if required.
+
+## 🧩 Notes
+
+This branch is part of a use-case based development flow.
+
+It focuses only on handling user input and responses.
+
+Additional features like chat history, loaders, and UI enhancements are planned in later branches.
+
+##  👨‍💻 Author
+
+Dipak Sirsath
+
+JavaScript Developer | AI Chatbot Enthusiast
+
+GitHub: https://github.com/DipakSirsath312
+
+---
+
 # Branch: `UC-4-ErrorThrow_addMessage`
 
 ## 🚀 Use Case 4: Error Handling & Message Rendering
@@ -290,6 +368,16 @@ OR run:
 
 ---
 >>>>>>> main
+
+
+
+
+
+
+
+
+
+
 
 
 
